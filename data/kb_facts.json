@@ -1,0 +1,4 @@
+{
+  "crops": ["rice", "wheat", "groundnut"],
+  "soil_types": ["loamy", "sandy", "black soil"]
+}

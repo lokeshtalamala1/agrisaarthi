@@ -1,0 +1,12 @@
+gradio
+transformers
+faiss-cpu
+sentence-transformers
+torch
+openai-whisper
+numpy
+scipy
+onnxruntime
+soundfile
+langdetect
+gtts
